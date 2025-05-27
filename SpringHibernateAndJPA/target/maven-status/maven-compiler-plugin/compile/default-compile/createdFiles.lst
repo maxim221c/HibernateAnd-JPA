@@ -1,0 +1,9 @@
+ru\koval\springcourse\models\Person.class
+ru\koval\springcourse\util\PersonValidator.class
+ru\koval\springcourse\controllers\BooksController.class
+ru\koval\springcourse\config\SpringConfig.class
+ru\koval\springcourse\dao\PersonDAO.class
+ru\koval\springcourse\dao\BookDAO.class
+ru\koval\springcourse\config\MySpringMvcDispatcherSerlvetIntitializer.class
+ru\koval\springcourse\models\Book.class
+ru\koval\springcourse\controllers\PeopleController.class
